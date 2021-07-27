@@ -12,6 +12,7 @@ namespace PracticeHashset
         {
             Func<int, double> aa = (r) => 3.14 * r * r;
             Console.WriteLine(aa(3));
+            Console.WriteLine("Hello Akash");
         }
     }
 }
